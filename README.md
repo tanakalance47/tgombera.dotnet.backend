@@ -2,7 +2,7 @@
 
 #Steps to run the solution
 
-#Step 1 : Clone the GIT repository to a local environment.
+- Step 1 : Clone the GIT repository to a local environment.
 #Step 2 : Ensure Visual Studio 2019 or later is installed on the local environment. (recommended)
 #Step 3 : Open the solution by opening the "tgombera.backend.sln" file uusing Visual Studio.
 #Step 4 : Once the project is open Rebuild the solution by clicking "Build" on the menu and selecting "Rebuild Solution".
