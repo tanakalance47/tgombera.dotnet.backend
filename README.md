@@ -1,6 +1,6 @@
 # tgombera.dotnet.backend (.NET 5 API)
 
-## Steps to run the solution
+## Steps to run the solution:
 
 - Step 1 : Clone the GIT repository to a local environment.
 - Step 2 : Ensure Visual Studio 2019 or later is installed on the local environment. (recommended)
